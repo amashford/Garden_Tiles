@@ -1,8 +1,6 @@
-# Garden_Tiles
----
+# Garden Tiles
 
 ## The Problem
----
 
 **Summary**
 
@@ -18,7 +16,6 @@ Create a function to place tiles of varying sizes into a given area
 ---
 
 ## Content
----
 
 **Experimentation**
 
@@ -39,7 +36,6 @@ There are also 2 variants of the functions:
 ---
 
 ## Example
----
 
 Currently the only example of using these functions can be found in the **Experimenation** Notebook.
 
