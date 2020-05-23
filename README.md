@@ -25,18 +25,18 @@ This contains the notebook in which I built the initial functions and iterated t
 
 This contains the final functions I have written to solve the problem. There are two primary functions:
 
-1. Placement - This returns a numpy array of a placement of tiles
-2. Colour - This uses the first function and returns an image of the tile placement
+1. Placement - *This returns a numpy array of a placement of tiles*
+2. Colour - *This uses the first function and returns an image of the tile placement*
 
 There are also 2 variants of the functions:
 
-1. Single_Size - This should be used when all of your tiles are equally sized, there is an additional placement option available
-2. Multi_Size - This should be used when you have tiles of varying sizes
+1. Single_Size - *This should be used when all of your tiles are equally sized, there is an additional placement option available*
+2. Multi_Size - *This should be used when you have tiles of varying sizes*
 
 ---
 
 ## Example
 
-Currently the only example of using these functions can be found in the **Experimenation** Notebook.
+Currently the only example of using these functions can be found in the **Experimentation** Notebook.
 
 ---
