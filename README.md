@@ -19,14 +19,16 @@ Create a function to place tiles of varying sizes into a given area
 
 **Experimentation**
 
-This contains the notebook in which I built the initial functions and iterated to add features and fix bugs. I've cleaned up the code and commentented to show my thought process and how the function development has progressed. 
+This contains the notebook in which I built the initial functions and iterated to add features and fix bugs. I've cleaned up the code and commented to show my thought process and how the function development has progressed. 
 
 **Functions**
 
-This contains the final functions I have written to solve the problem. There are two primary functions:
+This contains the functions I have written to solve the problem. 
+
+There are two primary functions:
 
 1. Placement - *This returns a numpy array of a placement of tiles*
-2. Colour - *This uses the first function and returns an image of the tile placement*
+2. Colour - *This uses the first function and returns a visualisation of the tile placement*
 
 There are also 2 variants of the functions:
 
